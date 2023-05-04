@@ -1,8 +1,7 @@
-package cn.xf.improve.netty.test03_解码器;
+package cn.xf.improve.netty.test04_收发数据;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.socket.SocketChannel;
-import io.netty.handler.codec.LineBasedFrameDecoder;
 import io.netty.handler.codec.string.StringDecoder;
 
 import java.nio.charset.Charset;
